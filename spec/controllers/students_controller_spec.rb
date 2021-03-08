@@ -15,6 +15,6 @@ describe StudentsController do
         expect(response).to redirect_to Student.last
       end
     end
-  end
+  end 
 
 end
